@@ -2,6 +2,7 @@
 # **HindSub App**
 
 This web application allows users to upload video files, automatically extract audio, transcribe spoken content into Hindi, and generate synchronized subtitles in the SRT format. It uses advanced AI models, such as Whisper, to ensure accurate transcription and efficient subtitle generation. The app is designed for anyone looking to make their video content accessible to Hindi-speaking audiences.
+<img width="1710" alt="Screenshot 2024-10-13 at 9 09 40 PM" src="https://github.com/user-attachments/assets/c3eff77d-b04e-488e-b24c-320d294e1251">
 
 ## **Features**
 
